@@ -90,6 +90,10 @@ h2.title { font-family: 'Patrick Hand', sans-serif; font-weight: 400; font-size:
 .cta h2.title { color: #fff; }
 .cta p { max-width: 36em; margin: 0 auto 28px; opacity: .92; }
 
+.gift { margin-top: 24px; background: var(--sun); color: #4a3b32; }
+.gift h3 { margin-top: 0; }
+.gift p { color: #4a3b32; }
+
 /* Tester steps */
 .steps { counter-reset: step; display: grid; gap: 22px; }
 .step { position: relative; padding-left: 78px; }
